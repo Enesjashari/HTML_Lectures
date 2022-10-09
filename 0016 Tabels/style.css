@@ -1,0 +1,16 @@
+table , td , tr,th {
+    border : 1px solid black;
+    width: 30% ;
+}
+
+
+/* borders
+table , td , tr {
+    border : 2px solid black;
+    border-radius: 10px;
+    background-color: aquamarine;
+    /* border-collapse: collapse; */
+    /* border-color: red; */
+    /* border-style: groove; */
+ 
+/* } */
